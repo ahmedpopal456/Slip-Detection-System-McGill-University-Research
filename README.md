@@ -18,3 +18,9 @@ especially on the decision behind choosing the correct footwear for them.
 
 *Note that folders ending in _prx refer to both heel projects running on the heel PCBs', while the _trx project
 refers to the pelvis project 
+
+
+
+
+For more information on the design of the PCBs, the specific sensors used, electrical schematics, or more, please contact
+this account's e-mail, personally. 
